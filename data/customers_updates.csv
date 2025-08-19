@@ -1,0 +1,5 @@
+customer_id,name,email,updated_at,loyalty_tier
+2,Bruno Lima,bruno.lima+new@example.com,2024-07-01T09:00:00Z,silver
+3,Carla Dias,carla.dias@example.com,2024-07-01T09:00:00Z,gold
+11,Karen Tavares,karen.tavares@example.com,2024-07-01T09:05:00Z,bronze
+12,Lucas Moreira,lucas.moreira@example.com,2024-07-01T09:06:00Z,bronze
